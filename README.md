@@ -2,7 +2,7 @@
 
 # How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 
-I interprest user needs by communicating with the client and the potential end user on how the product should work and how the intend to interact with the product. When developing the product, I keep in mind that the product needs to be very intuitive and simple while still meeting the requirments set by the client. The user stories help with understanding the requirments so that they can be turned into tasks placed on the product backlog,
+I interpreted user needs by communicating with the client and the potential end user on how the product should work and how the intend to interact with the product. When developing the product, I keep in mind that the product needs to be very intuitive and simple while still meeting the requirments set by the client. The user stories help with understanding the requirments so that they can be turned into tasks placed on the product backlog,
 
 # How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
 
